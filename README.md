@@ -5,6 +5,7 @@
 to start using this config file you need to go step by step with me 
 
 1 ) open terminal 
+
 2 ) Set up Vundle: #I use Vundle :sweat_smile:
 ```bash
 curl https://raw.githubusercontent.com/Ziani52/vimrc/main/vimrc > .vimrc # to create vimrc file
